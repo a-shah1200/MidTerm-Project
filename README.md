@@ -53,4 +53,4 @@ Each model's results, including accuracy, precision, recall, and F1-score, are d
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE License - see the `LICENSE` file for details.
+This project is licensed under the GPL-3.0 License - see the `LICENSE` file for details.
