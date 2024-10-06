@@ -36,9 +36,9 @@ Each model has its own folder containing the implementation notebook and evaluat
 ### Important Files
 
 - `dataset_creation.ipynb`: A notebook that creates the dataset by extracting text, cleaning it, and generating the final training dataset.
-- `Roberta-Peft/classifier_final_version.ipynb`:  A notebook that for training and testing RoBERTa model with LoRA technique.
-- `DistilBert_Classification/Classifier.ipynb`: A notebook that for training and testing DistilBERT model.
-- `ALBert_Classification/ALBert_Classifier.ipynb`: A notebook that for training and testing ALBERT model.
+- `Roberta-Peft/classifier_final_version.ipynb`:  A notebook for training and testing RoBERTa model with LoRA technique.
+- `DistilBert_Classification/Classifier.ipynb`: A notebook for training and testing DistilBERT model.
+- `ALBert_Classification/ALBert_Classifier.ipynb`: A notebook for training and testing ALBERT model.
 
 
 ### Results
