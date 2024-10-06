@@ -36,9 +36,9 @@ Each model has its own folder containing the implementation notebook and evaluat
 ### Important Files
 
 - `dataset_creation.ipynb`: A notebook that creates the dataset by extracting text, cleaning it, and generating the final training dataset.
-- `classifier_final_version.ipynb`: ??????????????????? <--- add the content
-- `classfier model code file 1`: ????????????????? <--- add the content and file name
-- `classfier model code file 2`: ????????????????? <--- add the content and file name
+- `Riberta-Peft/classifier_final_version.ipynb`:  A notebook that for training and testing RoBERTa model with LoRA technique.
+- `DistilBert_Classification/Classifier.ipynb`: A notebook that for training and testing DistilBERT model.
+- `ALBert_Classification/ALBert_Classifier.ipynb`: A notebook that for training and testing ALBERT model.
 
 
 ### Results
@@ -48,7 +48,7 @@ Each model's results, including accuracy, precision, recall, and F1-score, are d
 ## Usage
 
 1. **Dataset Creation**: Run the `dataset_creation.ipynb` notebook to create and preprocess the dataset.
-2. **Model Training**: Execute the classification notebooks inside each model folder to train and evaluate the respective classifiers.
+2. **Model Training**: Execute the classification notebooks as specified above to train and evaluate the respective classifiers.
 3. **Evaluation**: Visualize and compare the results to determine which model best classifies the LLM-generated text completions.
 
 ## License
