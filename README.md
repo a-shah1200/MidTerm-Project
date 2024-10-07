@@ -40,7 +40,7 @@ Each model has its own folder containing the implementation notebook and evaluat
 - `DistilBert_Classification/Classifier.ipynb`: A notebook for training and testing DistilBERT model.
 - `ALBert_Classification/ALBert_Classifier.ipynb`: A notebook for training and testing ALBERT model.
 - `Midterm Project.pdf`: A report for this project.
-
+[Midterm Project PDF](./Midterm Project.pdf)
 
 ### Results
 
